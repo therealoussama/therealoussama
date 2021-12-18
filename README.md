@@ -1,0 +1,4 @@
+- 👋 Hi, I’m DexinerDex
+- 👀 I’m interested in crypto coding and Ui/Ux design
+- 🌱 I’m currently learning blockchain and front end
+- 💞️ I’m looking to collaborate on startup projects
